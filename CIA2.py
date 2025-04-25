@@ -1,1 +1,1 @@
-printf(" cca cia 2");
+print(" cca cia 2");
